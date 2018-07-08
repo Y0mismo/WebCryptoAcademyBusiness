@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: cryptoacademybusiness.com
+Token: e8b8f8b085f0c167a48f96964add815cce18a60ddbc093520d78047e48732009
